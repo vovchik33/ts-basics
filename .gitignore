@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules/
+
+# Bun dependencies
+.bun/
+
+# Build outputs
+dist/
+build/
+*.js
+*.js.map
+*.d.ts
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bun-debug.log*
+
+# Environment files
+.env
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# MacOS system files
+.DS_Store
