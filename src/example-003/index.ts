@@ -1,0 +1,1 @@
+console.log('Example 003: Happy developing again');
